@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4EF8688A-C6F2-453A-8676-C04D6BB101F7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EE074FDDA87AD8B4C9B7A7CB12D4673CB4274A98</key>
+		<string>https://github.com/divinedavis/Stop-Watch-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Stop Watch/Stop Watch.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EE074FDDA87AD8B4C9B7A7CB12D4673CB4274A98</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/divinedavis/Stop-Watch-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EE074FDDA87AD8B4C9B7A7CB12D4673CB4274A98</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EE074FDDA87AD8B4C9B7A7CB12D4673CB4274A98</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Stop-Watch-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
