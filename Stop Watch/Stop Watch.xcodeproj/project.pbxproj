@@ -13,8 +13,6 @@
 		166F5AFF1B8F6CDD004E1435 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 166F5AFE1B8F6CDD004E1435 /* Images.xcassets */; };
 		166F5B021B8F6CDD004E1435 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 166F5B001B8F6CDD004E1435 /* LaunchScreen.xib */; };
 		166F5B0E1B8F6CDD004E1435 /* Stop_WatchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 166F5B0D1B8F6CDD004E1435 /* Stop_WatchTests.swift */; };
-		166F5B191B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.34.03 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 166F5B171B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.34.03 PM.png */; };
-		166F5B1A1B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.33.48 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 166F5B181B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.33.48 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,8 +36,6 @@
 		166F5B071B8F6CDD004E1435 /* Stop WatchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Stop WatchTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		166F5B0C1B8F6CDD004E1435 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		166F5B0D1B8F6CDD004E1435 /* Stop_WatchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stop_WatchTests.swift; sourceTree = "<group>"; };
-		166F5B171B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.34.03 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2015-08-27 at 12.34.03 PM.png"; path = "../../../Desktop/Screen Shot 2015-08-27 at 12.34.03 PM.png"; sourceTree = "<group>"; };
-		166F5B181B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.33.48 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2015-08-27 at 12.33.48 PM.png"; path = "../../../Desktop/Screen Shot 2015-08-27 at 12.33.48 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,8 +62,6 @@
 				166F5AF41B8F6CDD004E1435 /* Stop Watch */,
 				166F5B0A1B8F6CDD004E1435 /* Stop WatchTests */,
 				166F5AF31B8F6CDD004E1435 /* Products */,
-				166F5B171B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.34.03 PM.png */,
-				166F5B181B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.33.48 PM.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -198,9 +192,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				166F5B191B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.34.03 PM.png in Resources */,
 				166F5AFD1B8F6CDD004E1435 /* Main.storyboard in Resources */,
-				166F5B1A1B8F7397004E1435 /* Screen Shot 2015-08-27 at 12.33.48 PM.png in Resources */,
 				166F5B021B8F6CDD004E1435 /* LaunchScreen.xib in Resources */,
 				166F5AFF1B8F6CDD004E1435 /* Images.xcassets in Resources */,
 			);
